@@ -26,10 +26,10 @@ Establishing the foundation of any engagement by leveraging public information.
 - [x] **WhatsMyName Web / Sherlock** - Username Enumeration `(Level: 2/4) [██░░]`
 - [x] **Epieos** - Email & Phone Reverse Lookup `(Level: 2/4) [██░░]`
 - [x] **OpenCorporates** - Corporate Intelligence Investigation `(Level: 2/4) [██░░]`
-- [x] **IntelTechniques Framework** - OSINT Methodology `(Level: 1/4) [█░░░]`
+- [x] **IntelTechniques Framework** - OSINT Methodology `(Level: 2/4) [██░░]`
 - [x] **Wayback Machine** - Historical Website Analysis `(Level: 2/4) [██░░]`
-- [x] **Reverse Image Search** (Google/TinEye) - Image Forensics `(Level: 1/4) [█░░░]`
-- [x] **DNSDumpster** - Subdomain Enumeration `(Level: 1/4) [█░░░]`
+- [x] **Reverse Image Search** (Google/TinEye) - Image Forensics `(Level: 2/4) [██░░]`
+- [x] **DNSDumpster** - Subdomain Enumeration `(Level: 2/4) [██░░]`
 
 ## Module 2: Network Scanning & Enumeration
 
@@ -37,7 +37,7 @@ Mapping the attack surface to identify open ports, services, and potential entry
 
 - [x] **Netdiscover / Nmap** - Host Discovery & Port Scanning `(Level: 2/4) [██░░]`
 - [x] **Whois** - Domain & IP Ownership Verification `(Level: 2/4) [██░░]`
-- [x] **Lsof / Netstat** - Local Connection Analysis `(Level: 1/4) [█░░░]`
+- [x] **Lsof / Netstat** - Local Connection Analysis `(Level: 2/4) [██░░]`
 - [x] **Traceroute** - Network Path Analysis `(Level: 2/4) [██░░]`
 - [x] **Wireshark** - Packet Analysis & Traffic Inspection `(Level: 2/4) [██░░]`
 
@@ -45,18 +45,18 @@ Mapping the attack surface to identify open ports, services, and potential entry
 
 Analyzing web applications for vulnerabilities and data leaks.
 
-- [x] **urlscan.io** - URL Sandbox Analysis `(Level: 1/4) [█░░░]`
-- [x] **Instant Data Scraper** - Automated Data Extraction `(Level: 1/4) [█░░░]`
-- [x] **Search by Image** - Browser-based Image Intelligence `(Level: 1/4) [█░░░]`
+- [x] **urlscan.io** - URL Sandbox Analysis `(Level: 2/4) [██░░]`
+- [x] **Instant Data Scraper** - Automated Data Extraction `(Level: 2/4) [██░░]`
+- [x] **Search by Image** - Browser-based Image Intelligence `(Level: 2/4) [██░░]`
 - [x] **Steganography & Forensics** - Steghide, ExifTool, Stegseek `(Level: 2/4) [██░░]`
 
 ## Module 4: Support Tools & Methodology
 
 Tools that ensure operational security, organization, and professional reporting.
 
-- [x] **Obsidian** - Investigation Knowledge Base & Reporting `(Level: 1/4) [█░░░]`
-- [x] **Kasm Workspaces** - Isolated Browser Environments `(Level: 1/4) [█░░░]`
-- [x] **Pentest Reporting** - Professional Documentation Standards `(Level: 1/4) [█░░░]`
+- [x] **Obsidian** - Investigation Knowledge Base & Reporting `(Level: 2/4) [██░░]`
+- [x] **Kasm Workspaces** - Isolated Browser Environments `(Level: 2/4) [██░░]`
+- [x] **Pentest Reporting** - Professional Documentation Standards `(Level: 2/4) [██░░]`
 - [x] **Custom Scripting** - Bash Automation (e.g., custom tools in /usr/local/bin) `(Level: 2/4) [██░░]`
 
 ---
@@ -68,9 +68,9 @@ Transitioning from enumeration to gaining and maintaining access.
 - [x] **SQLMap** - Automated SQL Injection `(Level: 2/4) [██░░]`
 - [x] **Metasploit Framework** - Exploitation & Payload Management `(Level: 2/4) [██░░]`
 - [x] **Msfvenom** - Custom Payload Generation `(Level: 2/4) [██░░]`
-- [x] **Privilege Escalation** - SUID, Sudo exploits (vim escape, mount), GTFOBins `(Level: 1/4) [█░░░]`
+- [x] **Privilege Escalation** - SUID, Sudo exploits (vim escape, mount), GTFOBins `(Level: 2/4) [██░░]`
 - [x] **Password Cracking** - Custom Wordlists (Crunch), Seclists `(Level: 2/4) [██░░]`
-- [x] **Meterpreter** - Advanced Post-Exploitation Payload `(Level: 1/4) [█░░░]`
+- [x] **Meterpreter** - Advanced Post-Exploitation Payload `(Level: 2/4) [██░░]`
 
 ---
 
