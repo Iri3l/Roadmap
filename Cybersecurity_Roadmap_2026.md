@@ -48,7 +48,7 @@ Analyzing web applications for vulnerabilities and data leaks.
 - [x] **urlscan.io** - URL Sandbox Analysis `(Level: 2/4) [██░░]`
 - [x] **Instant Data Scraper** - Automated Data Extraction `(Level: 2/4) [██░░]`
 - [x] **Search by Image** - Browser-based Image Intelligence `(Level: 2/4) [██░░]`
-- [x] **Steganography & Forensics** - Steghide, ExifTool, Stegseek `(Level: 2/4) [██░░]`
+- [x] **Steganography & Forensics** - Steghide, ExifTool, Stegseek, Strings `(Level: 2/4) [██░░]`
 
 ## Module 4: Support Tools & Methodology
 
