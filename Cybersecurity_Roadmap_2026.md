@@ -7,25 +7,34 @@
 
 ## 🛠 Part I: Hands-on Technical Skills
 
-### 1. OSINT & Information Gathering
+### 1. Information Gathering & OSINT
 - [x] **Sherlock / WhatsMyName** - Username Enumeration `(Level: 2/4) [██░░]`
 - [x] **Epieos** - Email & Phone Reverse Lookup `(Level: 2/4) [██░░]`
 - [x] **Wayback Machine** - Historical Web Analysis `(Level: 2/4) [██░░]`
+- [x] **DNSDumpster** - Subdomain Enumeration `(Level: 1/4) [█░░░]`
 
-### 2. Network Scanning & Analysis
-- [x] **Nmap / Netdiscover** - Infrastructure Discovery `(Level: 2/4) [██░░]`
+### 2. Network Scanning & Enumeration
+- [x] **Netdiscover / Nmap** - Infrastructure Discovery `(Level: 2/4) [██░░]`
 - [x] **Wireshark** - Packet Inspection & Traffic Analysis `(Level: 2/4) [██░░]`
 - [x] **Traceroute** - Network Path Mapping `(Level: 2/4) [██░░]`
 
-### 3. Exploitation & Post-Exploitation
+### 3. Web Analysis & Forensics
+- [x] **Steganography & Forensics** - Steghide, ExifTool, Strings `(Level: 2/4) [██░░]`
+- [x] **Instant Data Scraper** - Automated Data Extraction `(Level: 1/4) [█░░░]`
+
+### 4. Support Tools & Methodology
+- [x] **Obsidian** - Knowledge Management & Investigation Notes `(Level: 1/4) [█░░░]`
+- [x] **Pentest Reporting** - Professional Documentation Standards `(Level: 1/4) [█░░░]`
+
+### 5. Exploitation & Post-Exploitation
 - [x] **Privilege Escalation** - SUID/Sudo exploitation (LinPeas) `(Level: 2/4) [██░░]`
 - [x] **SQLMap** - Automated SQL Injection `(Level: 2/4) [██░░]`
-- [x] **Metasploit** - Exploit Framework Management `(Level: 2/4) [██░░]`
-- [x] **Password Cracking** - Wordlist attacks (John/Hashcat) `(Level: 2/4) [██░░]`
+- [x] **Metasploit Framework** - Exploit Management `(Level: 2/4) [██░░]`
+- [x] **Password Cracking** - John the Ripper, Hashcat, Wordlists `(Level: 2/4) [██░░]`
 
-### 4. Digital Forensics & Environment
-- [x] **Metadata Analysis** - Strings, ExifTool forensics `(Level: 2/4) [██░░]`
-- [x] **Kali Linux** - System Hardening & Integration `(Level: 2/4) [██░░]`
+### 6. Advanced Environment & Infrastructure
+- [x] **Kali Linux** - System Hardening & User Management `(Level: 2/4) [██░░]`
+- [x] **System Integration** - Systemd Services & Automation `(Level: 2/4) [██░░]`
 
 ---
 
