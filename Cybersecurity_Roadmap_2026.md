@@ -49,7 +49,7 @@
 
 ### Network Security Fundamentals (Cisco CCST Syllabus)
 - [x] **Infrastructure:** Device roles (Router, Switch, Firewall).
-- [x] **Addressing:** IPv4 logic, Subnetting (CIDR), MAC addresses.
+- [x] **Addressing:** IPv4/IPv6 logic, Subnetting (CIDR), MAC addresses.
 - [x] **Vulnerability Management:** CVE database, CVSS scoring system.
 - [x] **Monitoring & Logs:** SIEM/SOAR concepts, Log Analysis.
 
@@ -61,4 +61,4 @@
 *   **Completed Master Theory Review:** Successfully mastered the domains for ISC2 CC and Cisco CCST entry-level certifications.
 *   **Lab Success:** Demonstrated privilege escalation on Linux systems using LinPeas and SUID exploitation.
 *   **Forensics Drill:** Performed deep metadata analysis on image artifacts to identify device origins.
-*   **Network Deep-Dive:** Applied CIDR logic to network segmentation scenarios.
+*   **Network Deep-Dive:** Applied CIDR logic to network segmentation and explored IPv6 128-bit addressing mechanics.
