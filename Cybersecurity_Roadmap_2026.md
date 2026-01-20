@@ -62,3 +62,8 @@
 *   **Lab Success:** Demonstrated privilege escalation on Linux systems using LinPeas and SUID exploitation.
 *   **Forensics Drill:** Performed deep metadata analysis on image artifacts to identify device origins.
 *   **Network Deep-Dive:** Applied CIDR logic to network segmentation and explored IPv6 128-bit addressing mechanics.
+
+### January 20, 2026
+*   **Environment Optimization & Database Hardening:**
+    *   **Metasploit Mastery:** Successfully troubleshot and configured the Metasploit PostgreSQL database integration, resolving complex permission and service conflicts.
+    *   **Network Defense:** Adjusted local firewall policies to secure internal service communication while maintaining high-availability for offensive tools.
