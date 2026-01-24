@@ -2,7 +2,7 @@
 
 ![Status](https://img.shields.io/badge/Status-Active%20Learning-green)
 ![Focus](https://img.shields.io/badge/Focus-Network%20Security%20%26%20Python-blue)
-![Environment](https://img.shields.io/badge/Lab-Kali%20Linux%20%7C%20VMware-7D26CD)
+![Environment](https://img.shields.io/badge/Lab-Kali%20Linux%20%7C%20UTM-7D26CD)
 ![Certifications](https://img.shields.io/badge/Prep-ISC2%20CC%20%7C%20Cisco%20CCST-orange)
 
 ## 👋 About Me
