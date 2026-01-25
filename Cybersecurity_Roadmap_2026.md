@@ -34,6 +34,7 @@
 
 ### 6. Advanced Environment & Infrastructure
 - [x] **Kali Linux** - System Hardening & User Management (Level: 2/4) [██░░]
+- [x] **macOS Security & EDR** - Firewall (LuLu), Persistence Monitoring (BlockBlock) (Level: 2/4) [██░░]
 - [x] **System Integration** - Systemd Services & Automation (Level: 2/4) [██░░]
 
 ---
@@ -58,6 +59,9 @@
 ## 📈 Active Study Log & Achievements
 
 ### January 20, 2026
+*   **Endpoint Defense & EDR Implementation:**
+    *   **macOS Hardening:** Deployed and configured **LuLu** (Network Monitor/Firewall) and **BlockBlock** (Persistence Monitor) to establish a personal SOC environment.
+    *   **Behavioral Analysis:** Successfully differentiated between traditional Antivirus (Signature-based) and EDR (Behavior-based) mechanisms in practical scenarios.
 *   **Knowledge Consolidation & Hub Architecture:**
     *   Synthesized theory from multiple sources (ISC2, Cisco, Lab notes) into a unified Cybersecurity Knowledge Hub.
     *   Successfully passed a comprehensive theoretical review session covering the OSI model, network protocols (TCP/UDP), and security governance.
