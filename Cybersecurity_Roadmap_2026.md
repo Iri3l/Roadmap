@@ -25,8 +25,9 @@
 - [x] **Incident Response** - Host Isolation & Professional Reporting (Level: 3/4) [███░]
 
 ### 4. Python for Cybersecurity
-- [x] **Automation Scripts** - Port Scanners, Brute-Forcers, DNS Resolvers (Level: 1/4) [█░░░]
-- [x] **System Integration** - Subprocess automation & CLI argument handling (Level: 1/4) [█░░░]
+- [x] **Automation Scripts** - Port Scanners, Brute-Forcers, DNS Resolvers (Level: 2/4) [██░░]
+- [x] **Network Programming** - Socket handling, Timeout logic, & Error catching (Level: 2/4) [██░░]
+- [x] **System Integration** - Subprocess automation & CLI argument handling (Level: 2/4) [██░░]
 
 ### 5. Web Analysis & Forensics
 - [x] **Steganography & Forensics** - Steghide, ExifTool, Strings (Level: 2/4) [██░░]
@@ -37,12 +38,6 @@
 - [x] **SQLMap** - Automated SQL Injection (Level: 2/4) [██░░]
 - [x] **Metasploit Framework** - Exploit Management (Level: 2/4) [██░░]
 - [x] **Password Cracking** - John the Ripper, Hashcat, Wordlists (Level: 2/4) [██░░]
-
-### 7. Python for Cybersecurity
-- [x] **Python Basics** (Variables, Loops, Functions, Files) `(Level: 2/4) [██░░]`
-- [x] **Network Python** (Port Scanners, Socket handling, Timeout logic) `(Level: 2/4) [██░░]`
-- [ ] **Web Automation** (Requests, BeautifulSoup) `(Level: 0/4) [░░░░]`
-- [x] **Malware/Automation** (Subprocess, File handling, Try/Except) `(Level: 2/4) [██░░]`
 
 ---
 
@@ -70,19 +65,25 @@
 
 ---
 
+## 🎓 Part III: Formal Education & Training
+
+### Cyber Security Practices (Netcom Training) - *In Progress*
+*Focus: Industrial standards, Cyber Kill Chain, and Security by Design principles.*
+- [ ] **Unit 1: Understand Cyber Security** (Threat actors, Motivations, CIA Triad).
+- [ ] **Unit 2: Core Terminology & Key Aspects** (Vuln management, Lockheed Martin Kill Chain).
+- [ ] **Unit 3: Security by Design Principles** (Threat modeling, Defense in Depth).
+
+---
+
 ## 📈 Active Study Log & Achievements
+
+### February 17, 2026
+*   **Knowledge Consolidation:** Performed a comprehensive review of core security domains after a 14-day break.
+*   **Formal Enrollment:** Joined **Netcom Training** for "Cyber Security Practices" to align self-taught skills with industrial certifications.
+*   **Drill Success:** Demonstrated mastery in Network Protocols (TCP/UDP), Web Vulnerabilities (SQLi/XSS), and Incident Response workflows.
+*   **Infrastructure:** Established a hybrid study plan merging academic LOs (Learning Outcomes) with offensive laboratory modules.
 
 ### February 02, 2026
 *   **Level Up (2.5 - Rising Star):**
-    *   **Technical Interview:** Passed advanced mock interview covering HSTS, SSL Stripping, and Ransomware RAM Forensics.
-    *   **Endpoint Defense:** Deployed **LuLu** and **BlockBlock** on macOS for real-time behavioral monitoring.
-    *   **Python Automation:** Enhanced scanning tools with robust error handling (`try...except`) and operational security logic.
-    *   **Knowledge Base:** Consolidated all learnings into a master `teorie.md` file and created a dedicated interview prep guide.
-
-### January 20, 2026
-*   **Endpoint Defense & EDR Implementation:** Deployed LuLu and BlockBlock for macOS hardening.
-*   **Environment Optimization:** Resolved PostgreSQL/Metasploit service integration issues.
-
-### January 18, 2026
-*   **Master Theory Review:** Completed core domains for ISC2 CC and Cisco CCST.
-*   **Lab Success:** Demonstrated Linux privilege escalation and forensics metadata analysis.
+    *   **Technical Interview Prep:** Passed advanced mock interview covering HSTS, SSL Stripping, and Ransomware Forensics.
+    *   **Python Automation:** Enhanced scanning tools with robust error handling and CLI integration.
