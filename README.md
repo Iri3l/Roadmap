@@ -8,7 +8,14 @@
 ## 👋 About Me
 Welcome to my cybersecurity portfolio. I am an aspiring **Cybersecurity Analyst / Junior Pentester** currently documenting my journey from fundamental theory to advanced practical application.
 
-This repository serves as a live tracker of my progress, separating verified skills from ongoing learning. My approach combines rigorous theoretical study (Cisco/ISC2 standards) with custom Python tool development.
+---
+
+## 📚 Learning Resources & Knowledge Hub
+I maintain these live documents to consolidate my learning and serve as a quick reference for technical tasks:
+
+*   **[Full Cybersecurity Theory (EN)](theory.md)** - A comprehensive encyclopedia of my theoretical knowledge, covering the Cyber Kill Chain, MITRE ATT&CK, Networking (OSI/TCP), and ISC2/Cisco certification prep.
+*   **[Command & Tool Cheat Sheet (EN)](commands.md)** - My personal "arsenal" of commands for Linux/macOS, Nmap, Metasploit, SQLMap, and SOC analysis.
+*   **[Detailed Roadmap 2026](Cybersecurity_Roadmap_2026.md)** - My structured path for skill acquisition and competency levels.
 
 ---
 
