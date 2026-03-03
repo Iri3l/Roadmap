@@ -216,4 +216,4 @@ Global reference standard for documenting attacks.
 *   **Terms:** SCADA, PLC, Air-Gapping.
 
 ---
-*Last update: March 2, 2026. Consolidated for Irinel Lazarovici.*
+*Last update: March 2, 2026.*
