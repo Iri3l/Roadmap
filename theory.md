@@ -153,4 +153,4 @@ CTI transforms raw data into actionable knowledge to prevent attacks.
 *   **Concepts:** Purdue Model (Segmentation), Air-Gapping.
 
 ---
-*Last update: February 26, 2026. Consolidated document for Irinel Lazarovici.*
+*Last update: February 26, 2026.*
