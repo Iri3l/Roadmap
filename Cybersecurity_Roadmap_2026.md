@@ -39,6 +39,11 @@
 - [x] **Metasploit Framework** - Exploit Management (Level: 2/4) [██░░]
 - [x] **Password Cracking** - John the Ripper, Hashcat, Wordlists (Level: 2/4) [██░░]
 
+### 7. Digital Forensics & Malware Analysis
+- [x] **Static Analysis** - File fingerprinting (`file`), string extraction (`strings`), and hash verification (Level: 1/4) [█░░░]
+- [x] **Binary Decompilation** - Reconstructing source code from C#/.NET (`ILSpy`) and C/C++ (`Ghidra`) (Level: 1/4) [█░░░]
+- [x] **Reverse Engineering** - Identifying logic flows, password comparison mechanisms, and entry points in compiled binaries (Level: 1/4) [█░░░]
+
 ---
 
 ## 📚 Part II: Theoretical Foundations
@@ -76,6 +81,13 @@
 ---
 
 ## 📈 Active Study Log & Achievements
+
+### March 14, 2026
+*   **Reverse Engineering Milestone:**
+    *   **Independent Analysis:** Successfully analyzed and cracked a C++ binary ("simp-password") using only static CLI tools, identifying hardcoded credentials in plain text.
+    *   **Binary Decompilation:** Leveraged **Ghidra** and **AvaloniaILSpy** to reconstruct logic from compiled C++ and C#/.NET applications.
+    *   **Level 4 Roadmap:** Established a long-term engineering path focused on Reverse Engineering, C/C++ development, and advanced Threat Hunting.
+*   **Skill Validation:** Achieved Level 2.4 proficiency by demonstrating the ability to solve forensic challenges independently.
 
 ### February 17, 2026
 *   **Knowledge Consolidation:** Performed a comprehensive review of core security domains after a 14-day break.
