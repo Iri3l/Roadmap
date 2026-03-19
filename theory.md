@@ -171,4 +171,18 @@ When hackers try to trick you, they often "spoof" (fake) their email address to 
 *   **How it works:** SPF and DKIM are good, but what happens if an email fails the check? Should it go to spam, or should it be deleted completely? DMARC is the rulebook. The domain owner uses DMARC to tell your email provider exactly what to do (e.g., "If an email claims to be from me but fails SPF or DKIM, throw it in the trash immediately!"). It also sends a report back to the domain owner so they know someone is trying to spoof them.
 
 ---
+
+## ☁️ Part 7: Cloud Mitigation Services (For Beginners)
+
+When a company's website gets attacked by massive amounts of fake traffic (a **DDoS attack**), their servers can crash. To prevent this, companies use specialized cloud services that act as a giant shield in front of their website.
+
+### <a id="cloudflare"></a>1. Cloudflare
+*   **What it is:** One of the most popular web performance and security companies in the world.
+*   **How it works:** Imagine a bouncer standing outside a club, checking IDs. Cloudflare sits between the internet and a company's website. If it detects normal users, it lets them in quickly. If it detects a botnet trying to launch a DDoS attack, it absorbs the "punch" using its massive global server network and blocks the fake traffic before it ever reaches the company's actual server.
+
+### <a id="akamai"></a>2. Akamai
+*   **What it is:** A global Content Delivery Network (CDN) and cloud security provider, often used by massive enterprise companies and banks.
+*   **How it works:** Similar to Cloudflare, Akamai acts as a reverse proxy. It distributes a website's content across thousands of servers worldwide. When a DDoS attack hits, Akamai's "scrubbing centres" filter out the malicious packets (the bad traffic) and only let the legitimate customer requests pass through to the main server, ensuring the website stays online even during a massive cyber war.
+
+---
 *Last update: March 17, 2026.*
