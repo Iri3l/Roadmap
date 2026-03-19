@@ -153,4 +153,22 @@ CTI transforms raw data into actionable knowledge to prevent attacks.
 *   **Concepts:** Purdue Model (Segmentation), Air-Gapping.
 
 ---
-*Last update: February 26, 2026.*
+
+## 📧 Part 6: Email Security Protocols (For Beginners)
+
+When hackers try to trick you, they often "spoof" (fake) their email address to make it look like it comes from a legitimate company (like your bank or your CEO). To stop this, domains use three "bouncer" protocols:
+
+### <a id="spf"></a>1. SPF (Sender Policy Framework)
+*   **What it does:** It's like a guest list at a party.
+*   **How it works:** The owner of a domain (e.g., `google.com`) publishes a public list of all the IP addresses that are officially allowed to send emails on their behalf. When you receive an email from `google.com`, your email provider checks this list. If the sender's IP isn't on the guest list, the email is marked as suspicious or spam.
+
+### <a id="dkim"></a>2. DKIM (DomainKeys Identified Mail)
+*   **What it does:** It's like a wax seal on a physical letter.
+*   **How it works:** It adds a hidden, cryptographic digital signature to the email. When the email arrives, your email provider checks the signature. If the seal is broken (meaning someone tampered with the email while it was travelling across the internet), the email is rejected. It ensures the email's **Integrity**.
+
+### <a id="dmarc"></a>3. DMARC (Domain-based Message Authentication, Reporting, and Conformance)
+*   **What it does:** It's the boss of the two bouncers (SPF and DKIM).
+*   **How it works:** SPF and DKIM are good, but what happens if an email fails the check? Should it go to spam, or should it be deleted completely? DMARC is the rulebook. The domain owner uses DMARC to tell your email provider exactly what to do (e.g., "If an email claims to be from me but fails SPF or DKIM, throw it in the trash immediately!"). It also sends a report back to the domain owner so they know someone is trying to spoof them.
+
+---
+*Last update: March 17, 2026.*
