@@ -184,5 +184,24 @@ When a company's website gets attacked by massive amounts of fake traffic (a **D
 *   **What it is:** A global Content Delivery Network (CDN) and cloud security provider, often used by massive enterprise companies and banks.
 *   **How it works:** Similar to Cloudflare, Akamai acts as a reverse proxy. It distributes a website's content across thousands of servers worldwide. When a DDoS attack hits, Akamai's "scrubbing centres" filter out the malicious packets (the bad traffic) and only let the legitimate customer requests pass through to the main server, ensuring the website stays online even during a massive cyber war.
 
+## 🏛️ Part 8: Governance, Risk & Compliance (GRC)
+
+Modern cybersecurity is not just about tools; it's about the rules, policies, and laws that keep organizations safe and legally compliant.
+
+### 1. ISO Standards (The Global Language of Security)
+*   **ISO 27001 (ISMS):** The international gold standard for managing information security. It provides a framework for establishing, implementing, maintaining, and continually improving an Information Security Management System (ISMS).
+*   **ISO 42001 (AI Management):** A new standard (released late 2023) specifically for AI ethics and security. It addresses challenges like transparency, bias, and data protection in Artificial Intelligence systems.
+
+### 2. Incident Response (IR) Workflow
+When a data breach occurs (e.g., leaking PII - Personally Identifiable Information), the GRC team follows a strict protocol:
+1.  **Containment:** Stop the data from leaking further (e.g., recall emails, isolate servers).
+2.  **Reporting:** Legal obligation (GDPR) to report high-risk breaches to the ICO (Information Commissioner's Office) within 72 hours.
+3.  **Remediation:** Implementing DLP (Data Loss Prevention) solutions and training staff to prevent recurrence.
+
+### 3. Key GRC Terminology
+*   **Zero Trust:** A security model that assumes everyone (inside or outside the network) is a threat until proven otherwise. "Never trust, always verify."
+*   **Managed vs. Unmanaged Devices:** Corporate devices (Managed) are trusted; personal devices (Unmanaged) are isolated to prevent "Lateral Movement" of malware.
+*   **Lateral Movement:** When a virus enters a weak point (like a personal laptop) and "jumps" to critical systems. GRC policies aim to block these paths through network segmentation (VLANs).
+
 ---
-*Last update: March 17, 2026.*
+*Last update: May 06, 2026.*

@@ -48,7 +48,7 @@
 
 ## 📚 Part II: Theoretical Foundations
 
-### Cybersecurity Principles & Operations (ISC2 CC Syllabus) (Level: 2/4) [██░░]
+### Cybersecurity Principles & Operations (ISC2 CC Syllabus) (Level: 3/4) [███░]
 - [x] **Security Concepts:** CIA Triad, Authentication (MFA), Privacy (PII).
 - [x] **Risk Management:** Assessment, Mitigation, Transfer, Acceptance.
 - [x] **Access Control:** DAC, MAC, RBAC, Physical Security (Mantraps).
@@ -61,6 +61,12 @@
 - [x] **Vulnerability Management:** CVE database, CVSS scoring system.
 - [x] **Monitoring & Logs:** SIEM/SOAR concepts, Log Analysis.
 
+### Governance, Risk & Compliance (GRC) & Data Protection (Level: 3/4) [███░]
+- [x] **Frameworks:** ISO 27001 (ISMS), ISO 42001 (AI Management), NIST CSF.
+- [x] **Legislation:** GDPR, Data Protection Act 2018, Computer Misuse Act 1990.
+- [x] **Strategic GRC:** Security Policy development, BYOD & Remote Work strategy.
+- [x] **Audit & Compliance:** Internal audit principles, 3rd party risk management.
+
 ### CompTIA Security+ (SY0-701) (Level: 1/4) [█░░░]
 - [x] **Domain 1: General Security Concepts** (AAA, Zero Trust, Deception, Physical).
 - [x] **Domain 2: Threats, Vulns & Mitigations** (Supply Chain, Ransomware internals).
@@ -72,15 +78,31 @@
 
 ## 🎓 Part III: Formal Education & Training
 
-### Cyber Security Practices (Netcom Training) - *In Progress*
+### Cyber Security Practices (Netcom Training) - *Completed*
 *Focus: Industrial standards, Cyber Kill Chain, and Security by Design principles.*
-- [ ] **Unit 1: Understand Cyber Security** (Threat actors, Motivations, CIA Triad).
-- [ ] **Unit 2: Core Terminology & Key Aspects** (Vuln management, Lockheed Martin Kill Chain).
-- [ ] **Unit 3: Security by Design Principles** (Threat modeling, Defense in Depth).
+- [x] **Unit 1: Understand Cyber Security** (Threat actors, Motivations, CIA Triad).
+- [x] **Unit 2: Core Terminology & Key Aspects** (Vuln management, Lockheed Martin Kill Chain).
+- [x] **Unit 3: Security by Design Principles** (Threat modeling, Defense in Depth).
+- [x] **Unit 4: Cyber Security Incident Response** (Preparation, Containment, Post-Mortem).
+- [x] **Unit 5: Legislation and Ethical Conduct** (CMA 1990, GDPR, ISO 27001, Ethics).
 
 ---
 
 ## 📈 Active Study Log & Achievements
+
+### May 06, 2026
+*   **Professional GRC Role Preparation:**
+    *   **Advanced Framework Mastery:** Conducted deep-dive analysis into **ISO 27001** for corporate ISMS and **ISO 42001** for emerging AI Management Systems.
+    *   **Incident Response Simulation:** Mastered professional protocols for handling PII (Personally Identifiable Information) breaches, including 72-hour reporting requirements and ICO notification workflows.
+    *   **Strategic Security Briefing:** Developed advanced communication skills for advising senior management on remote work security, VLAN segmentation, and Zero Trust architecture.
+    *   **Governance Career Path:** Analyzed security clearance tiers (BPSS, SC, DV) and employment screening processes to align with high-profile industry standards.
+
+### April 16, 2026
+*   **Unit 5 Completion (Netcom Training):**
+    *   **Legal Framework:** Mastered UK legislation including Computer Misuse Act 1990, Data Protection Act 2018, and GDPR principles.
+    *   **Industrial Standards:** Analyzed the ISO 27000 family, focusing on ISO 27001 (ISMS) and ISO 27002 (Security Controls).
+    *   **Ethical Conduct:** Aligned practical skills with (ISC)², ISACA, and BCS codes of ethics, covering confidentiality and responsible disclosure.
+    *   **Portfolio Sync:** Updated theory hub and admission plan to reflect mastery of Governance, Risk, and Compliance (GRC) fundamentals.
 
 ### March 14, 2026
 *   **Reverse Engineering Milestone:**
