@@ -6,7 +6,7 @@
 ![Certifications](https://img.shields.io/badge/Prep-ISC2%20CC%20%7C%20Cisco%20CCST-orange)
 
 ## 👋 About Me
-Welcome to my cybersecurity portfolio. I am an aspiring **Cybersecurity Analyst / Junior Pentester** currently documenting my journey from fundamental theory to advanced practical application.
+Welcome to my cybersecurity portfolio. I am an aspiring **Cyber security GRC Analyst / Forensics** currently documenting my journey from fundamental theory to advanced practical application.
 
 ---
 
