@@ -53,7 +53,7 @@ I am actively preparing for the following industry-standard certifications:
 
 ## 📫 Connect
 *   **LinkedIn:** [Irinel Lazarovici](https://www.linkedin.com/in/irinel-lazarovici-98a188123/)
-*   **Focus:** Open to Entry-Level Cybersecurity, SOC Analyst, or IT Support roles.
+*   **Focus:** Open to Entry-Level Cybersecurity, GRC Analyst | Compliance one day maybe Forensics.
 
 ---
 *“I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times.” – Bruce Lee*
